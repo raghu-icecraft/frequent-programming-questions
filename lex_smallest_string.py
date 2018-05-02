@@ -1,4 +1,5 @@
 #find lexicographically smallest string.
+#Operations: Choose some limit X,Y between 1 and length of string and remove substring [X,Y]  from S.
 #The first line of input will contain an integer T, denoting the number of test cases. 
 #Each test case starts with 2 numbers N and K - length of S and the number of minutes Kevin has. Next line contains string S.
 
