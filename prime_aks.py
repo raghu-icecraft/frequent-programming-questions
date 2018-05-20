@@ -1,7 +1,8 @@
 """
 AKS primality test (also known as Agrawal-Kayal-Saxena primality test and cyclotomic AKS test)
 Referred from https://en.wikipedia.org/wiki/AKS_primality_test
-TODO: Add the Time complexity of AKS
+Time Complexity (Big O): O(n log((log n))
+   Almost reducing inner function to square root of n
 
 To Execute: python prime_aks.py
 Sample Output (when n=1000):
